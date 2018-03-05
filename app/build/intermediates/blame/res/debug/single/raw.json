@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/raw/next_click_sound.mp3",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/raw/next_click_sound.mp3"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/raw/backgroundmusic.mp3",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/raw/backgroundmusic.mp3"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/raw/buttonstart.mp3",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/raw/buttonstart.mp3"
+    }
+]

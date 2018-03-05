@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/open_on_phone_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_negative_bg.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/ic_expand_more_white_22.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_positive_bg.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/ic_cc_checkmark.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/ic_cc_clear.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/ic_cc_clear.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v21/preference_wrapped_icon.xml"
+    }
+]

@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">School Guide</string>
+    <string name="btn_next">Next</string>
+    <string name="prev">Previous</string>
+
+
+    <string name="dialog_exit_title">Exit</string>
+    <string name="exit_title">Do you want to exit!</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ignore">Ignore</string>
+    <!--
+    Liste View Info
+    -->
+
+    <string name="collegien">Collegien</string>
+    <string name="lyceen">Lyceen</string>
+    <string name="etudiant">Student</string>
+    <string name="adulte">Adult</string>
+    <string name="parent">Parent</string>
+
+
+    <!--Title Of Question-->
+
+    <string name="q1">Question Number One</string>
+    <string name="q2">Question Number Two</string>
+    <string name="q3">Question Number Three</string>
+    <string name="q4">Question Number Four</string>
+    <string name="q5">Question Number Five</string>
+    <string name="q6">Question Number Six</string>
+    <string name="q7">Question Number Seven</string>
+    <string name="q8">Question Number Eight</string>
+    <string name="q9">Question Number Nine</string>
+    <string name="q10">Question Number Ten</string>
+    <string name="q11">Question Number Eleven</string>
+    <string name="q12">Question Number Twelve</string>
+    <string name="q13">Question Number Thirteen</string>
+    <string name="q14">Question Number Fourteen</string>
+    <string name="q15">Question Number Fifteen</string>
+    <string name="q16">Question Number Sixteen</string>
+    <string name="q17">Question Number Seventeen</string>
+    <string name="q18">Question Number Eighteen</string>
+    <string name="q19">Question Number Nineteen</string>
+    <string name="q20">Question Number Twenty</string>
+
+
+    <!--Questions -->
+
+
+    <!--Question N 1-->
+    <string name="questionA1">Draw or paint</string>
+    <string name="questionA2">Play chess or a puzzle game</string>
+    <string name="questionA3">Mounting a piece of furnitur</string>
+
+    <!--Question N 2-->
+    <string name="questionB1">Mowing a lawn</string>
+    <string name="questionB2">Leading a group</string>
+    <string name="questionB3">Helping someone overcome a difficulty</string>
+
+    <!--Question N 3-->
+    <string name="questionC1">Play a musical instrument</string>
+    <string name="questionC2">Finding an error in a reasoning</string>
+    <string name="questionC3">Participate in humanitarian action</string>
+
+    <!--Question N 4-->
+    <string name="questionD1">Read a scientific book</string>
+    <string name="questionD2">Make a shopping list</string>
+    <string name="questionD3">Playing in a play</string>
+
+    <!--Question N 5-->
+    <string name="questionE1">Repairing an object</string>
+    <string name="questionE2">Read a novel</string>
+    <string name="questionE3">Track your expenses</string>
+
+    <!--Question N 6-->
+    <string name="questionF1">Physically Spending</string>
+    <string name="questionF2">Organize your week</string>
+    <string name="questionF3">Develop your knowledge and knowledge</string>
+
+    <!--Question N 7-->
+    <string name="questionG1">Investigate</string>
+    <string name="questionG2">Imagine a film or novel script</string>
+    <string name="questionG3">Convincing others</string>
+
+    <!--Question N 8-->
+    <string name="questionH1">Talk within a group</string>
+    <string name="questionH2">To drive a truck</string>
+    <string name="questionH3">Play chess or a puzzle game</string>
+
+    <!--Question N 9-->
+    <string name="questionI1">Read an article to understand current events</string>
+    <string name="questionI2">Helping friends to relocate</string>
+    <string name="questionI3">Take a challenge</string>
+
+
+    <!--Question N 10-->
+    <string name="questionJ1">Seeking Explanation of a Mystery</string>
+    <string name="questionJ2">Mounting a piece of furniture</string>
+    <string name="questionJ3">Negotiate the price of an object</string>
+
+
+    <!--Question N 11-->
+    <string name="questionK1">Plan your schedule</string>
+    <string name="questionK2">Launching new ideas</string>
+    <string name="questionK3">Take risks</string>
+
+    <!--Question N 12-->
+    <string name="questionL1">Registering with a club or association</string>
+    <string name="questionL2">Manage your budget</string>
+    <string name="questionL3">Repairing an object</string>
+
+    <!--Question N 13-->
+    <string name="questionM1">Knowing new people</string>
+    <string name="questionM2">To take decisions</string>
+    <string name="questionM3">Arrange your room according to your tastes</string>
+
+
+    <!--Question N 14-->
+    <string name="questionN1">Starting a project</string>
+    <string name="questionN2">Make a tour</string>
+    <string name="questionN3">Repair a scooter or a car</string>
+
+
+    <!--Question N 15-->
+    <string name="questionO1">Understanding how a device works</string>
+    <string name="questionO2">Comforting someone in trouble</string>
+    <string name="questionO3">Make a shopping list</string>
+
+
+    <!--Question N 16-->
+    <string name="questionP1">Doing Home Renovation</string>
+    <string name="questionP2">Sign up for a competition</string>
+    <string name="questionP3">Dress yourself differently from others</string>
+
+    <!--Question N 17-->
+    <string name="questionQ1">Make a presentation to a group</string>
+    <string name="questionQ2">Collecting Objects</string>
+    <string name="questionQ3">Searching for information on the Internet</string>
+
+
+    <!--Question N 18-->
+    <string name="questionR1">Teach a concept to a student</string>
+    <string name="questionR2">Clean up your stuff</string>
+    <string name="questionR3">Convincing others</string>
+
+
+    <!--Question N 19-->
+    <string name="questionS1">Physical Activity</string>
+    <string name="questionS2">Let your imagination run wild</string>
+    <string name="questionS3">Caring for a person</string>
+
+    <!--Question N 20-->
+    <string name="questionT1">Organize your schedule</string>
+    <string name="questionT2">Create an art or decoration object</string>
+    <string name="questionT3">Taking news of your friends</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="intro_text">Long click to exit the map.</string>
+    <string name="title_activity_retourn">RetournActivity</string>
+    <string name="title_activity_final_result">final_result</string>
+
+
+    <!-- menu Item -->
+    <string name="about">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="share">Share</string>
+
+    <!--final result text-->
+    <string name="final_result">your profile based on your question\'s responses collected is :</string>
+    <string name="title_activity_final__result">Final_Result</string>
+    <string name="clicksearch">Click search button to see your profile school</string>
+
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about">About us</string>
+    <string name="adulte">راشد</string>
+    <string name="app_name">وجهني</string>
+    <string name="btn_next">التالي</string>
+    <string name="clicksearch">انقر فوق زر البحث لرؤية مدرسة ملفك الشخصي</string>
+    <string name="collegien">الاعدادية</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تمكين"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. الرجاء إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="contact_us">Contact us</string>
+    <string name="dialog_exit_title">خروج</string>
+    <string name="etudiant">طالب</string>
+    <string name="exit_title">هل تود الخروج!</string>
+    <string name="final_result">ملفك الشخصي استنادا إلى ردود سؤالك التي تم جمعها هو:</string>
+    <string name="ignore">تجاهل</string>
+    <string name="lyceen">الثانوية</string>
+    <string name="no">لا</string>
+    <string name="parent">الاباء</string>
+    <string name="prev">رجوع</string>
+    <string name="q1">السؤال رقم واحد</string>
+    <string name="q10">سؤال رقم عشرة</string>
+    <string name="q11">سؤال رقم أحد عشر</string>
+    <string name="q12">سؤال رقم اثنا عشر</string>
+    <string name="q13">سؤال رقم ثلاثة عشر</string>
+    <string name="q14">سؤال رقم أربعة عشر</string>
+    <string name="q15">سؤال رقم خمسة عشر</string>
+    <string name="q16">سؤال رقم ستة عشر</string>
+    <string name="q17">سؤال رقم سبعة عشر</string>
+    <string name="q18">سؤال رقم ثمانية عشر</string>
+    <string name="q19">سؤال رقم تسعة عشر</string>
+    <string name="q2">السؤال رقم اثنين</string>
+    <string name="q20">سؤال رقم عشرون</string>
+    <string name="q3">السؤال رقم ثلاثة</string>
+    <string name="q4">السؤال رقم أربعة</string>
+    <string name="q5">السؤال رقم خمسة</string>
+    <string name="q6">السؤال رقم ستة</string>
+    <string name="q7">السؤال رقم سبعة</string>
+    <string name="q8">السؤال رقم ثمانية</string>
+    <string name="q9">السؤال رقم تسعة</string>
+    <string name="questionA1">رسم أو تلوين</string>
+    <string name="questionA2">لعب الشطرنج أو لعبة اللغز</string>
+    <string name="questionA3">تثبيت مجموعة الأثاث</string>
+    <string name="questionB1">القص المروج</string>
+    <string name="questionB2">توجيه مجموعة</string>
+    <string name="questionB3">مساعدة شخص التغلب على صعوبة</string>
+    <string name="questionC1">العزف على الآلات الموسيقية</string>
+    <string name="questionC2">العثور على خطأ في حجة</string>
+    <string name="questionC3">المشاركة في الإنسانية</string>
+    <string name="questionD1">قراءة العمل العلمي</string>
+    <string name="questionD2">تقديم قائمة سباق</string>
+    <string name="questionD3">اللعب في مسرحية</string>
+    <string name="questionE1">إصلاح شئ</string>
+    <string name="questionE2">قراءة رواية</string>
+    <string name="questionE3">تتبع النفقات الخاصة بك</string>
+    <string name="questionF1">النشاط البدني</string>
+    <string name="questionF2">تنظيم الأسبوع الخاص بك</string>
+    <string name="questionF3">تطوير علمك ومعرفتك</string>
+    <string name="questionG1">بحث</string>
+    <string name="questionG2">تخيل فيلم أو سيناريو رواية</string>
+    <string name="questionG3">إقناع الآخرين</string>
+    <string name="questionH1">مناقشة ضمن مجموعة</string>
+    <string name="questionH2">قيادة شاحنة</string>
+    <string name="questionH3">لعب الشطرنج أو لعبة اللغز</string>
+    <string name="questionI1">قراءة مادة إخبارية</string>
+    <string name="questionI2">مساعدة الاصدقاء لنقل</string>
+    <string name="questionI3">التحدي</string>
+    <string name="questionJ1">بحث شرح لغزا</string>
+    <string name="questionJ2">تثبيت مجموعة الأثاث</string>
+    <string name="questionJ3">تفاوض على سعر</string>
+    <string name="questionK1">تقديم الجدول الزمني الخاص بك</string>
+    <string name="questionK2">إطلاق أفكار جديدة</string>
+    <string name="questionK3">المخاطرة</string>
+    <string name="questionL1">يمكنك الانضمام إلى ناد أو جمعية</string>
+    <string name="questionL2">إدارة ميزانيتك</string>
+    <string name="questionL3">إصلاح شئ</string>
+    <string name="questionM1">تعرف على أشخاص جدد</string>
+    <string name="questionM2">اتخاذ القرارات</string>
+    <string name="questionM3">ترتيب غرفتك وفقا لذوقك</string>
+    <string name="questionN1">كنت اطلاق مشروع</string>
+    <string name="questionN2">القيام بجولة</string>
+    <string name="questionN3">إصلاح دراجة أو سيارة</string>
+    <string name="questionO1">فهم كيف يمكن لجهاز أن يعمل</string>
+    <string name="questionO2">تريح  شخص في محنة</string>
+    <string name="questionO3">تقديم قائمة</string>
+    <string name="questionP1">ترميم منزل</string>
+    <string name="questionP2">تسجيل للحصول على المنافسة</string>
+    <string name="questionP3">لباس بشكل مختلف عن الآخر</string>
+    <string name="questionQ1">تقديم عرض لمجموعة</string>
+    <string name="questionQ2">جمع العناصر</string>
+    <string name="questionQ3">البحث عن المعلومات على شبكة الإنترنت</string>
+    <string name="questionR1">تعليم مفهوم للطالب</string>
+    <string name="questionR2">تنظيف ملابس</string>
+    <string name="questionR3">إقناع الآخرين</string>
+    <string name="questionS1">نشاط البدني</string>
+    <string name="questionS2">أطلق العنان لخيالك</string>
+    <string name="questionS3">علاج شخص</string>
+    <string name="questionT1">تنظيم الجدول الزمني الخاص بك</string>
+    <string name="questionT2">خلق قطعة فنية أو زخرفة</string>
+    <string name="questionT3">تكوين صداقات جديدة</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="share">Share</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="yes">نعم</string>
+</resources>

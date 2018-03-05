@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_ten.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_ten.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_6_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_foor.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_foor.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_2_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/content_final_result.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/content_final_result.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_seven.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_seven.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_7_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_nine.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_nine.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_activityfoorteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_activityfoorteen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_six.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_six.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_3_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_twenty.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_twenty.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_two.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_two.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_peek_view.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_activityseventeen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_activityseventeen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_twelve.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_twelve.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_nineteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_nineteen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/content_final__result.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/content_final__result.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_1_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_final__result.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_final__result.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_three.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_three.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_fifteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_fifteen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_4_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_activityeight.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_activityeight.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_eleven.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_eleven.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_activty_five.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_activty_five.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/imagetxtlayout.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/imagetxtlayout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_sixteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_sixteen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_5_item.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout/single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/question_one.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/question_one.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_thirteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_thirteen.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout/activity_question_activityeighteen.xml",
+        "source": "/home/dev/info/TextAnimation/app/src/main/res/layout/activity_question_activityeighteen.xml"
+    }
+]

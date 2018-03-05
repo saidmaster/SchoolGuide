@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/animator-v21/circular_image_button_anim.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/animator-v21/circular_image_button_anim.xml"
+    }
+]

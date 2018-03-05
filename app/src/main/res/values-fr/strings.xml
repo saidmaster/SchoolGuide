@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Le Guide Scollaire</string>
+    <string name="btn_next">Suivant</string>
+    <string name="prev">Retour</string>
+
+
+    <string name="dialog_exit_title">Sortir</string>
+    <string name="exit_title">Vous voulez vraiment quitter!</string>
+
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="ignore">Ignorer</string>
+    <!--
+    Liste View Info
+    -->
+
+    <string name="collegien">Collegien</string>
+    <string name="lyceen">Lyceen</string>
+    <string name="etudiant">Etudiant</string>
+    <string name="adulte">Adulte</string>
+    <string name="parent">Parent</string>
+
+
+    <!--Questions -->
+
+
+    <!--Question N 1-->
+    <string name="questionA1">Dessiner ou peindre</string>
+    <string name="questionA2">Jouer aux échecs ou à un jeu de réflexion</string>
+    <string name="questionA3">Monter un meuble en kit</string>
+
+    <!--Question N 2-->
+    <string name="questionB1">Tondre une pelouse</string>
+    <string name="questionB2">Diriger un groupe</string>
+    <string name="questionB3">Aider quelqu\'un à surmonter une difficulté</string>
+
+    <!--Question N 3-->
+    <string name="questionC1">Jouer d\'un instrument de musique</string>
+    <string name="questionC2">Trouver une erreur dans un raisonnement</string>
+    <string name="questionC3">Participer à une action humanitaire</string>
+
+    <!--Question N 4-->
+    <string name="questionD1">Lire un ouvrage scientifique</string>
+    <string name="questionD2">Faire une liste de courses</string>
+    <string name="questionD3">Jouer dans une pièce de théatre</string>
+
+    <!--Question N 5-->
+    <string name="questionE1">Réparer un objet</string>
+    <string name="questionE2">Lire un roman</string>
+    <string name="questionE3">Suivre vos dépenses</string>
+
+    <!--Question N 6-->
+    <string name="questionF1">Vous dépenser physiquement</string>
+    <string name="questionF2">Organiser votre semaine</string>
+    <string name="questionF3">Développer votre savoir et vos connaissances</string>
+
+    <!--Question N 7-->
+    <string name="questionG1">Mener une enquête</string>
+    <string name="questionG2">Imaginer un scénario de film ou de roman</string>
+    <string name="questionG3">Convaincre les autres</string>
+
+    <!--Question N 8-->
+    <string name="questionH1">Discuter au sein d\'un groupe</string>
+    <string name="questionH2">Conduire un camion</string>
+    <string name="questionH3">Jouer aux échecs ou à un jeu de réflexion</string>
+
+    <!--Question N 9-->
+    <string name="questionI1">Lire un article pour comprendre l\'actualité</string>
+    <string name="questionI2">Aider des amis à déménager</string>
+    <string name="questionI3">Relever un défi</string>
+
+
+    <!--Question N 10-->
+    <string name="questionJ1">Chercher l\'explication d\'un mystère</string>
+    <string name="questionJ2">Monter un meuble en kit</string>
+    <string name="questionJ3">Négocier le prix d\'un objet</string>
+
+
+    <!--Question N 11-->
+    <string name="questionK1">Prévoir votre emploi du temps</string>
+    <string name="questionK2">Lancer de nouvelles idées</string>
+    <string name="questionK3">Prendre des risques</string>
+
+    <!--Question N 12-->
+    <string name="questionL1">Vous inscrire à un club ou une association</string>
+    <string name="questionL2">Gérer votre budget</string>
+    <string name="questionL3">Réparer un objet</string>
+
+    <!--Question N 13-->
+    <string name="questionM1">Connaître de nouvelles personnes</string>
+    <string name="questionM2">Prendre des décisions</string>
+    <string name="questionM3">Aménager votre chambre selon vos goûts</string>
+
+
+    <!--Question N 14-->
+    <string name="questionN1">Vous lancer dans un projet</string>
+    <string name="questionN2">Faire un voyage organisé</string>
+    <string name="questionN3">Réparer un scooter ou une voiture</string>
+
+
+    <!--Question N 15-->
+    <string name="questionO1">Comprendre le fonctionnement d\'un appareil</string>
+    <string name="questionO2">Réconforter quelqu\'un dans la peine</string>
+    <string name="questionO3">Faire une liste de courses</string>
+
+
+    <!--Question N 16-->
+    <string name="questionP1">Faire les travaux de rénovation d\'une maison</string>
+    <string name="questionP2">Vous inscrire à une compétition</string>
+    <string name="questionP3">Vous habiller différemment des autres</string>
+
+    <!--Question N 17-->
+    <string name="questionQ1">Faire un exposé devant un groupe</string>
+    <string name="questionQ2">Collectionner des objets</string>
+    <string name="questionQ3">Chercher de l\'information sur Internet</string>
+
+
+    <!--Question N 18-->
+    <string name="questionR1">Enseigner une notion à un élève</string>
+    <string name="questionR2">Ranger vos affaires</string>
+    <string name="questionR3">Convaincre les autres</string>
+
+
+    <!--Question N 19-->
+    <string name="questionS1">Faire une activité physique</string>
+    <string name="questionS2">Laisser libre cours à votre imagination</string>
+    <string name="questionS3">Soigner une personne</string>
+
+    <!--Question N 20-->
+    <string name="questionT1">Organiser votre emploi du temps</string>
+    <string name="questionT2">Créer un objet d\'art ou de décoration</string>
+    <string name="questionT3">Prendre des nouvelles de vos amis</string>
+
+    <!--Title Of Question-->
+
+    <string name="q1">Question numéro une</string>
+    <string name="q2">Question numéro deux</string>
+    <string name="q3">Question numéro trois</string>
+    <string name="q4">Question numéro quatre</string>
+    <string name="q5">Question numéro cinq</string>
+    <string name="q6">Question numéro Six</string>
+    <string name="q7">Question numéro sept</string>
+    <string name="q8">Question numéro huit</string>
+    <string name="q9">Question numéro neuf</string>
+    <string name="q10">Question numéro dix</string>
+    <string name="q11">Question numéro onze</string>
+    <string name="q12">Question numéro douze</string>
+    <string name="q13">Question numéro Treize</string>
+    <string name="q14">Question numéro quatorze</string>
+    <string name="q15">Question numéro quinze</string>
+    <string name="q16">Question numéro seize</string>
+    <string name="q17">Question numéro dix-sept</string>
+    <string name="q18">Question numéro dix-huit</string>
+    <string name="q19">Question numéro dix-neuf</string>
+    <string name="q20">Question numéro vingt</string>
+
+
+    <!-- menu Item -->
+    <string name="about">Qui Somme Nous</string>
+    <string name="contact_us">Contactez nous</string>
+    <string name="share">Partager</string>
+
+
+    <!--final result text-->
+    <string name="final_result">Votre profil basé sur les réponses de votre question recueillies est :</string>
+    <string name="clicksearch">Cliquez sur le bouton de recherche pour voir votre profil école</string>
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/action_item_background.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/action_item_background.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_expand_less_white_22.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_center.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_cc_settings_button_center.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_top.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_cc_settings_button_top.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/action_item_icon_background.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/action_item_icon_background.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_more_horiz_24dp_wht.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_more_vert_24dp_wht.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_bottom.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_cc_settings_button_bottom.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_e.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/drawable-v23/ic_cc_settings_button_e.xml"
+    }
+]

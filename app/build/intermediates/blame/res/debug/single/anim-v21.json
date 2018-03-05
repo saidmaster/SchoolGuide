@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/open_on_phone_arrow_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/anim-v21/open_on_phone_arrow_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/generic_confirmation_icon_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/anim-v21/generic_confirmation_icon_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/open_on_phone_path_2_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/anim-v21/open_on_phone_path_2_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/open_on_phone_path_1_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/anim-v21/open_on_phone_path_1_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/generic_confirmation_generic_confirmation_animation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/anim-v21/generic_confirmation_generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/3cb14c3a3090d7692788d9621df1d18ecfa6f3cd/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

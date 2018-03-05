@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/accept_deny_dialog.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout-v21/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/overlay_confirmation.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout-v21/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/dismiss_overlay.xml",
+        "source": "/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/res/layout-v21/dismiss_overlay.xml"
+    },
+    {
+        "merged": "/home/dev/info/TextAnimation/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/bfeb52e7d003015001de9693e74960df56abcd54/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

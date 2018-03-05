@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">وجهني</string>
+    <string name="btn_next">التالي</string>
+    <string name="prev">رجوع</string>
+
+
+    <string name="dialog_exit_title">خروج</string>
+    <string name="exit_title">هل تود الخروج!</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ignore">تجاهل</string>
+    <!--
+        Liste View Info
+    -->
+    <string name="collegien">الاعدادية</string>
+    <string name="lyceen">الثانوية</string>
+    <string name="etudiant">طالب</string>
+    <string name="adulte">راشد</string>
+    <string name="parent">الاباء</string>
+
+
+    <!--Questions -->
+
+
+    <!--Question N 1-->
+    <string name="questionA1">رسم أو تلوين</string>
+    <string name="questionA2">لعب الشطرنج أو لعبة اللغز</string>
+    <string name="questionA3">تثبيت مجموعة الأثاث</string>
+
+    <!--Question N 2-->
+    <string name="questionB1">القص المروج</string>
+    <string name="questionB2">توجيه مجموعة</string>
+    <string name="questionB3">مساعدة شخص التغلب على صعوبة</string>
+
+    <!--Question N 3-->
+    <string name="questionC1">العزف على الآلات الموسيقية</string>
+    <string name="questionC2">العثور على خطأ في حجة</string>
+    <string name="questionC3">المشاركة في الإنسانية</string>
+
+    <!--Question N 4-->
+    <string name="questionD1">قراءة العمل العلمي</string>
+    <string name="questionD2">تقديم قائمة سباق</string>
+    <string name="questionD3">اللعب في مسرحية</string>
+
+    <!--Question N 5-->
+    <string name="questionE1">إصلاح شئ</string>
+    <string name="questionE2">قراءة رواية</string>
+    <string name="questionE3">تتبع النفقات الخاصة بك</string>
+
+    <!--Question N 6-->
+    <string name="questionF1">النشاط البدني</string>
+    <string name="questionF2">تنظيم الأسبوع الخاص بك</string>
+    <string name="questionF3">تطوير علمك ومعرفتك</string>
+
+    <!--Question N 7-->
+    <string name="questionG1">بحث</string>
+    <string name="questionG2">تخيل فيلم أو سيناريو رواية</string>
+    <string name="questionG3">إقناع الآخرين</string>
+
+    <!--Question N 8-->
+    <string name="questionH1">مناقشة ضمن مجموعة</string>
+    <string name="questionH2">قيادة شاحنة</string>
+    <string name="questionH3">لعب الشطرنج أو لعبة اللغز</string>
+
+    <!--Question N 9-->
+    <string name="questionI1">قراءة مادة إخبارية</string>
+    <string name="questionI2">مساعدة الاصدقاء لنقل</string>
+    <string name="questionI3">التحدي</string>
+
+
+    <!--Question N 10-->
+    <string name="questionJ1">بحث شرح لغزا</string>
+    <string name="questionJ2">تثبيت مجموعة الأثاث</string>
+    <string name="questionJ3">تفاوض على سعر</string>
+
+
+    <!--Question N 11-->
+    <string name="questionK1">تقديم الجدول الزمني الخاص بك</string>
+    <string name="questionK2">إطلاق أفكار جديدة</string>
+    <string name="questionK3">المخاطرة</string>
+
+    <!--Question N 12-->
+    <string name="questionL1">يمكنك الانضمام إلى ناد أو جمعية</string>
+    <string name="questionL2">إدارة ميزانيتك</string>
+    <string name="questionL3">إصلاح شئ</string>
+
+    <!--Question N 13-->
+    <string name="questionM1">تعرف على أشخاص جدد</string>
+    <string name="questionM2">اتخاذ القرارات</string>
+    <string name="questionM3">ترتيب غرفتك وفقا لذوقك</string>
+
+
+    <!--Question N 14-->
+    <string name="questionN1">كنت اطلاق مشروع</string>
+    <string name="questionN2">القيام بجولة</string>
+    <string name="questionN3">إصلاح دراجة أو سيارة</string>
+
+
+    <!--Question N 15-->
+    <string name="questionO1">فهم كيف يمكن لجهاز أن يعمل</string>
+    <string name="questionO2">تريح  شخص في محنة</string>
+    <string name="questionO3">تقديم قائمة</string>
+
+
+    <!--Question N 16-->
+    <string name="questionP1">ترميم منزل</string>
+    <string name="questionP2">تسجيل للحصول على المنافسة</string>
+    <string name="questionP3">لباس بشكل مختلف عن الآخر</string>
+
+    <!--Question N 17-->
+    <string name="questionQ1">تقديم عرض لمجموعة</string>
+    <string name="questionQ2">جمع العناصر</string>
+    <string name="questionQ3">البحث عن المعلومات على شبكة الإنترنت</string>
+
+
+    <!--Question N 18-->
+    <string name="questionR1">تعليم مفهوم للطالب</string>
+    <string name="questionR2">تنظيف ملابس</string>
+    <string name="questionR3">إقناع الآخرين</string>
+
+
+    <!--Question N 19-->
+    <string name="questionS1">نشاط البدني</string>
+    <string name="questionS2">أطلق العنان لخيالك</string>
+    <string name="questionS3">علاج شخص</string>
+
+    <!--Question N 20-->
+    <string name="questionT1">تنظيم الجدول الزمني الخاص بك</string>
+    <string name="questionT2">خلق قطعة فنية أو زخرفة</string>
+    <string name="questionT3">تكوين صداقات جديدة</string>
+
+    <!--Title Of Question-->
+
+    <string name="q1">السؤال رقم واحد</string>
+    <string name="q2">السؤال رقم اثنين</string>
+    <string name="q3">السؤال رقم ثلاثة</string>
+    <string name="q4">السؤال رقم أربعة</string>
+    <string name="q5">السؤال رقم خمسة</string>
+    <string name="q6">السؤال رقم ستة</string>
+    <string name="q7">السؤال رقم سبعة</string>
+    <string name="q8">السؤال رقم ثمانية</string>
+    <string name="q9">السؤال رقم تسعة</string>
+    <string name="q10">سؤال رقم عشرة</string>
+    <string name="q11">سؤال رقم أحد عشر</string>
+    <string name="q12">سؤال رقم اثنا عشر</string>
+    <string name="q13">سؤال رقم ثلاثة عشر</string>
+    <string name="q14">سؤال رقم أربعة عشر</string>
+    <string name="q15">سؤال رقم خمسة عشر</string>
+    <string name="q16">سؤال رقم ستة عشر</string>
+    <string name="q17">سؤال رقم سبعة عشر</string>
+    <string name="q18">سؤال رقم ثمانية عشر</string>
+    <string name="q19">سؤال رقم تسعة عشر</string>
+    <string name="q20">سؤال رقم عشرون</string>
+
+    <!-- menu Item -->
+    <string name="about">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="share">Share</string>
+
+    <!--final result text-->
+    <string name="final_result">ملفك الشخصي استنادا إلى ردود سؤالك التي تم جمعها هو:</string>
+    <string name="clicksearch">انقر فوق زر البحث لرؤية مدرسة ملفك الشخصي</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ed639b3527fef7f37c4fa1a4d22f6b3381497f61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_9133387765f504746d288c92fd1976649ff9b171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/eeb50d3de53af8e977012b8ab55ca3e8ac2bb48c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_8a6e861af87c1a21199f9c1c8e4914315ce78178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cb936b05aa212095c28c951927a3552039f8b640/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_e1ff5222f4e6f9ff3c7cfc8a04e43dd1dcff5cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3a6716f0abc052cb355bdcff9a5ee39aba8c5714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_0e218c4d58391be8568d77d21862746a780d9524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7067621cd7d4772bc8492252765b3863e64f748e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_3190a83c69cfbee9b88a509beff24cb10b9132ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a711cf0cf032a00c07cd9d220242a36a79ec9285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_7f4a21aa9669d5c235260dc883d9659550b8c42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dc85db9a2afd41afcf2cb57ed5358daafd0f6923/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="/home/dev/info/TextAnimation/app/build/intermediates/pre-dexed/debug/classes_17ef288df87768b31e5f37a46702d63bda25c379.jar" />
+    </item>
+
+</items>
